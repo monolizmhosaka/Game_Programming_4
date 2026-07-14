@@ -4,6 +4,7 @@
 
 #include "KeyInput.h"
 
+// forkのテストです。
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
     ChangeWindowMode(TRUE); // ウインドウモードで起動
